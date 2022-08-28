@@ -8,6 +8,7 @@ const List = styled.ul`
 
 const Item = styled.li`
   font-weight: 400;
+  text-shadow: 1px 2px 1px 0px #000000; color: #f9f5ed;
   &:not(: last-child) {
     margin-right: 15px;
   }
